@@ -1,6 +1,9 @@
 # 📌 Framework Scrum Visual — Projeto Prático
 
-![Logo do Projeto](https://github.com/atkgomes1806/scrumframework/blob/main/OIG3.jpeg)
+<p align="center">
+  <img src="https://github.com/atkgomes1806/scrumframework/blob/main/OIG3.jpeg" alt="Logo do Projeto" width="300"/>
+</p>
+
 
 ## 🧠 Entendendo o Desafio
 
